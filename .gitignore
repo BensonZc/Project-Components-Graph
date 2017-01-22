@@ -3,3 +3,5 @@ jjsx/
 node_modules
 npm-debug.log
 dist/
+*.log
+.DS_Store
