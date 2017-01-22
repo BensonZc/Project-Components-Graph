@@ -13,7 +13,8 @@ $ npm run crawl
 To develop:
 
 ```bash
-$ npm run ```
+$ npm run dev
+```
 
 To build for production:
 
@@ -29,7 +30,7 @@ $ npm run lint
 
 ## Demo
 
-![](https://ww3.sinaimg.cn/large/006y8lValy1fbzir877arj31hy0qo0v4.jpg)
 ![](https://ww4.sinaimg.cn/large/006tKfTcly1fbzirbyhywj31hu11qwk2.jpg)
+![](https://ww3.sinaimg.cn/large/006y8lValy1fbzir877arj31hy0qo0v4.jpg)
 
 
