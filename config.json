@@ -1,0 +1,7 @@
+{
+  "remotePath": "/Applications/XAMPP/xamppfiles/htdocs/weixin-old",
+  "regRule": {
+    "app":"/Applications/XAMPP/xamppfiles/htdocs/weixin-old/assets/src/",
+    "cms":"/Applications/XAMPP/xamppfiles/htdocs/weixin-old/assets/cms_modules/"
+  }
+}
